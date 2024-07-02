@@ -1,6 +1,7 @@
 Certainly! Here's a basic `README.md` file for your Invoice Analysis project that elaborates on the steps you mentioned:
 
-```markdown
+```markdown```
+
 # Invoice Analysis Project
 
 Welcome to the Invoice Analysis project! This project utilizes Streamlit to create an interactive web application for analyzing and extracting information from invoices automatically.
@@ -10,7 +11,6 @@ Welcome to the Invoice Analysis project! This project utilizes Streamlit to crea
 Follow these steps to set up and run the project on your local machine.
 
 ### Prerequisites
-```
 - Python 3.7+
 - pip (Python package installer)
 

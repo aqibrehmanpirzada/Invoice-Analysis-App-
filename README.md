@@ -10,7 +10,7 @@ Welcome to the Invoice Analysis project! This project utilizes Streamlit to crea
 Follow these steps to set up and run the project on your local machine.
 
 ### Prerequisites
-
+```
 - Python 3.7+
 - pip (Python package installer)
 

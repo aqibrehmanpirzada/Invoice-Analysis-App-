@@ -1,0 +1,8 @@
+streamlit
+openai
+base64
+langchain_community
+langchain_openai
+langchain
+pandas
+tempfile
